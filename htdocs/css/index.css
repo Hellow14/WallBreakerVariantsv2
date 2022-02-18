@@ -1,0 +1,147 @@
+body{
+	font-family: sans-serif;
+}
+.Body{
+    background-color: #ffcc66;
+    padding-bottom: 200px;
+   	border: 2.5px solid black;
+}
+.Whythiswebsite{
+	padding-top: 20px; 
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.variants{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.button1{
+	border: 2px solid  #4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	padding: 100px;
+	transition: 1s cubic-bezier(0.53,-0.4, 0.49, 1.25);
+	display: inline-block;
+	min-width: 150px;
+	background: url(images/WallbreakerSprite.png) no-repeat;
+}
+.button1:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+	background-position: 50px -715px;
+}
+.button2{
+	border: 2px solid  #4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	padding: 100px;
+	transition: 1s cubic-bezier(0.53,-0.4, 0.49, 1.25);
+	display: inline-block;
+	min-width: 150px;
+	background: url(images/BalloonSprite.png) no-repeat;
+}
+.button2:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+	background-position: 100px -760px;
+}
+.button3{
+	border: 2px solid  #4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	padding: 100px 100px 100px 100px;
+	transition: 1s cubic-bezier(0.53,-0.4, 0.49, 1.25);
+	display: inline-block;
+	min-width: 150px;
+	background: url(images/SuperWallBreakerSprite.png) no-repeat;
+}
+.button3:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+	background-position: 60px -720px;
+}
+.button4{
+	border: 2px solid  #4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	padding: 100px 100px;
+	transition-duration: 1s;
+	display: inline-block;
+	min-width: 150px;
+}
+.button4:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+.button5{
+	border: 2px solid  #4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	padding: 100px 100px;
+	transition-duration: 1s;
+	display: inline-block;
+	min-width: 150px;
+}
+.button5:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+
+footer{
+	padding-top: 30px;
+	font-size: 10px;
+}
+button{
+	min-width: 100px;
+}
+.GmailSprite{
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('images/SocialMediaSprites.png') no-repeat -49px -173px;
+	width: 33px;
+	height: 33px;
+}
+.GmailSprite:hover{
+	background-position: -49px -94px;
+}
+.GmailSprite:active{
+	background-position: -48px -13px;
+}
+.FacebookSprite{
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('images/SocialMediaSprites.png') no-repeat -277px -173px;
+	width: 32px;
+	height: 33px;
+}
+.FacebookSprite:hover{
+	background-position: -277px -94px;
+}
+.FacebookSprite:active{
+	background-position: -277px -14px;
+}
+.TwitterSprite{
+	display: inline-block;
+	background: url('images/SocialMediaSprites.png') no-repeat -506px -175px;
+	text-indent: -9999px;
+	width: 32px;
+	height: 33px;
+}
+.TwitterSprite:hover{
+	background-position: -505px -98px;
+}
+.TwitterSprite:active{
+	background-position: -504px -15px;
+}

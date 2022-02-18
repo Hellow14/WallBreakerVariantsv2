@@ -1,0 +1,119 @@
+body{
+	font-family: sans-serif;
+}
+.Body{
+	background-color: #ffcc66;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    border: 2.5px solid black;
+}
+.Statistics{
+	padding-top: 100px;
+	text-align: center;
+}
+.BodyPicture{
+	margin-right: 80px;
+}
+thead:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column1:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column2:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column3:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column4:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column5:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column6:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column7:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column8:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column9:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+.column10:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.2s;
+}
+table{
+	border-color: skyblue;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer{
+	padding-top: 30px;
+	font-size: 10px;
+}
+.GmailSprite{
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('images/SocialMediaSprites.png') no-repeat -49px -173px;
+	width: 33px;
+	height: 33px;
+}
+.GmailSprite:hover{
+	background-position: -49px -94px;
+}
+.GmailSprite:active{
+	background-position: -48px -13px;
+}
+.FacebookSprite{
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('images/SocialMediaSprites.png') no-repeat -277px -173px;
+	width: 32px;
+	height: 33px;
+}
+.FacebookSprite:hover{
+	background-position: -277px -94px;
+}
+.FacebookSprite:active{
+	background-position: -277px -14px;
+}
+.TwitterSprite{
+	display: inline-block;
+	background: url('images/SocialMediaSprites.png') no-repeat -506px -175px;
+	text-indent: -9999px;
+	width: 32px;
+	height: 33px;
+}
+.TwitterSprite:hover{
+	background-position: -505px -98px;
+}
+.TwitterSprite:active{
+	background-position: -504px -15px;
+}
